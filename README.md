@@ -4,7 +4,6 @@
 
 ![fabiocosta123 GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiocosta123&show_icons=true&theme=radical)
 
-[![fabiocosta123](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocosta123=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que uso em meu dia
