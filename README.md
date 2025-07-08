@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/fabiocosta123/fabiocosta123/blob/main/img/bannerGitHub.png" alt="Banner Fábio Costa" />
+</p>
+
+
 <h1 align="center">Olá! Eu sou o Fábio Costa 👋</h1>
 
 <p align="center">
