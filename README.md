@@ -50,3 +50,4 @@ Sou um desenvolvedor autodidata, proativo e apaixonado por resolver problemas co
 ### 🐍 Contribuições animadas
 
 ![snake gif](https://github.com/fabiocosta123/fabiocosta123/blob/output/github-contribution-grid-snake.svg)
+
