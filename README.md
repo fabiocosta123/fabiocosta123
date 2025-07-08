@@ -38,6 +38,24 @@ Sou um desenvolvedor autodidata, proativo e apaixonado por resolver problemas co
 
 ---
 
+### 💼 Outros Projetos
+
+| Projeto | Descrição |
+|--------|-----------|
+| [📘 Instituto Anexa](https://github.com/fabiocosta123/Instituto_Anexa) | Sistema para plataforma educacional EAD — construído com .NET e React. |
+| [🏋️ Academia Alisson Godoy](https://github.com/fabiocosta123/academia_alisson_godoy) <br> 🔗 [Ver deploy](https://fabiocosta123.github.io/academia_alisson_godoy/) | Site institucional para academia, com layout responsivo e foco em performance. |
+
+---
+
+### 🏆 Conquistas
+
+![GitHub followers](https://img.shields.io/github/followers/fabiocosta123?label=Seguidores&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/fabiocosta123?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+![Top Lang](https://img.shields.io/github/languages/top/fabiocosta123/Instituto_Anexa?color=blue&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=fabiocosta123&color=blue)
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
