@@ -36,10 +36,11 @@ Sou um desenvolvedor autodidata, proativo e apaixonado por resolver problemas co
 </div>
 
 ---
-
 ### 📌 Projeto em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiocosta123&repo=Instituto_Anexa&theme=radical)](https://github.com/fabiocosta123/Instituto_Anexa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiocosta123&repo=bookshelf&theme=radical)](https://github.com/fabiocosta123/bookshelf)
+
+🔗 [Acesse o projeto online](https://bookshelf-chi-five.vercel.app/)
 
 ---
 
@@ -47,7 +48,7 @@ Sou um desenvolvedor autodidata, proativo e apaixonado por resolver problemas co
 
 | Projeto | Descrição |
 |--------|-----------|
-| [📘 Instituto Anexa](https://github.com/fabiocosta123/Instituto_Anexa) | Sistema para plataforma educacional EAD — construído com .NET e React. |
+| [📘 Mente Aberta](https://bookshelf-chi-five.vercel.app/dashboard) | Sistema para Gerenciamento de Biblioteca |
 | [🏋️ Academia Alisson Godoy](https://github.com/fabiocosta123/academia_alisson_godoy) <br> 🔗 [Ver deploy](https://fabiocosta123.github.io/academia_alisson_godoy/) | Site institucional para academia, com layout responsivo e foco em performance. |
 
 ---
