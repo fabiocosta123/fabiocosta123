@@ -40,7 +40,7 @@ Sou um desenvolvedor autodidata, proativo e apaixonado por resolver problemas co
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiocosta123&repo=bookshelf&theme=radical)](https://github.com/fabiocosta123/bookshelf)
 
-**Bookshelf** é uma aplicação web para gerenciamento de livros lidos, com interface intuitiva e deploy via Vercel.
+**Bookshelf** é uma aplicação web para gerenciamento de biblioteca intuitiva.
 
 🔗 [Acesse o projeto online](https://bookshelf-chi-five.vercel.app/)
 
