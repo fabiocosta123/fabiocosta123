@@ -38,7 +38,7 @@ Sou um desenvolvedor autodidata, proativo e apaixonado por resolver problemas co
 ---
 ### 📌 Projeto em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiocosta123&repo=bookshelf&theme=radical)](https://github.com/fabiocosta123/bookshelf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiocosta123&repo=bookshelf&theme=radical)](https://github.com/fabiocosta123/bookshelf) | Sistema de gerenciamento Biblioteca |
 
 🔗 [Acesse o projeto online](https://bookshelf-chi-five.vercel.app/)
 
